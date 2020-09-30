@@ -1,0 +1,57 @@
+body {
+    
+    background-image: url("https://www.desktopbackground.org/p/2012/12/02/492606_pink-background-clouds-jpg_3000x3000_h.jpg");
+}
+h1,h2,p,ul,table,ol{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1,h2,p,table{
+    text-align: center;
+}
+table{
+     margin-left: 30%;
+     border-style: inset;
+     border-width: 20%;
+     border: 15;
+    }
+#sarangapur,#mode2,#model3{
+    font-size: 100%;
+
+}
+ul{
+    font-size: 125%;
+}
+/*#border-img{
+    border: 20px inset transparent;
+   
+    border-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGiEGgE7bJAs0cxPgFW3goP8uH5N8JZkJJPw&usqp=CAU") 100 stretch;
+}*/
+ul,ol{
+    padding-left:45%;
+    
+   
+}
+h1{
+    font-size: 300%;
+    border-style: solid;
+}
+body{
+
+  width: auto;
+  border: 15px solid rgb(128, 0, 17);
+  padding: 65px;
+  margin: 20px;
+}
+h2{
+    font-size: 30;
+
+}
+p,ul,ol,table{
+    font-size: 19;
+}
+img {
+    
+    border: 4px solid rgb(44, 4, 4);
+    width: 250px;
+}
+
